@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CaptureAndDetect">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="CaptureAndDetect.RectOptions" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\CaptureAndDetect.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AIBACADQAQBAIAjAACYSAQICUJAEEAAIEgWDAEIACAA=</HashCode>
+      <FileName>Assets\Scripts\CaptureAndDetect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CreateAnchor">
+    <Position X="3.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAQEAAYADAQEABABACQAAAAAAAAAAAAQAABEA=</HashCode>
+      <FileName>Assets\Scripts\CreateAnchor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DimensionsBase">
+    <Position X="13" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Assets\Scripts\Detector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoundingBoxDimensions">
+    <Position X="13" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Detector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellDimensions">
+    <Position X="11.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Detector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoundingBox">
+    <Position X="16.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAIAAKAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Detector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NutritionFetcher">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAQACAAAECAgBIgAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\NutritionFetcher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NutritionItem">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIACAABAAIAAQAAAACAAAAAEAQEAQAAAACAAAAA=</HashCode>
+      <FileName>Assets\Scripts\NutritionFetcher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NutritionResponse">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\NutritionFetcher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrientateText">
+    <Position X="6.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQBAACABAAAEAAACIAAAAAAAEAQAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Scripts\OrientateText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YOLO">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEAAoAAAICCQMBAgIJQAAAEAACCABCQAgIAGAAAAAkE=</HashCode>
+      <FileName>Assets\Scripts\YOLO.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Detector">
+    <Position X="14.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAIAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Detector.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
